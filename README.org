@@ -1,0 +1,14 @@
+#+STARTUP: showall
+#+TITLE: Ci Dict
+#+OPTIONS: num:nil ^:{} toc:nil
+
+alfred workflow词典，针对英汉查询做了些优化
+
+- 即时答案用本地词典，速度快
+- Shift预览有道词典，信息全
+- 回车打开有道网页（或本地词典），随心配
+
+* 参考
+- 本地查词基于[[https://github.com/tonyseek/macdict][macdict]]
+- 单词发音取自[[https://github.com/wensonsmith/YoudaoTranslator][YoudaoTranslator]]
+- 相似单词建议基于[[https://github.com/ahupp/bktree/blob/master/bktree.py][bktree]]
