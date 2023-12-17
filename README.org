@@ -8,6 +8,8 @@ alfred workflow词典，针对英汉查询做了些优化
 - Shift预览有道词典，信息全
 - 回车打开有道网页（或本地词典），随心配
 
+[[./screenshots/lookup_hello.jpeg]]
+
 * 参考
 - 本地查词基于[[https://github.com/tonyseek/macdict][macdict]]
 - 单词发音取自[[https://github.com/wensonsmith/YoudaoTranslator][YoudaoTranslator]]
